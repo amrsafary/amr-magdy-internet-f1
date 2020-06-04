@@ -489,8 +489,8 @@ text-align:center;
     <div id="main" style="">
       <div id="logo">
         <center><img src="img/logo.png" style="position:relative;bottom:45px;width:430px;"></center>
-        <div style="position:relative;bottom:175px;background:url(img/icons/fb3.png);margin-left:40px;height:45px;width:45px;cursor:pointer" onclick='window.open("https://www.facebook.com/pages/Satanic-Road/632599390116924?notif_t=fbpage_admin")'></div>
-        <div style="position:relative;bottom:175px;background:url(img/icons/yt.jpg);margin-left:40px;height:45px;width:45px;cursor:pointer" onclick='window.open("http://www.youtube.com/user/SatanicRoad")'></div>
+        <div style="position:relative;bottom:175px;background:url(img/icons/fb3.png);margin-left:40px;height:45px;width:45px;cursor:pointer" onclick='window.open("^-^")'></div>
+        <div style="position:relative;bottom:175px;background:url(img/icons/yt.jpg);margin-left:40px;height:45px;width:45px;cursor:pointer" onclick='window.open("^_^")'></div>
         
       </div>
       <div id="content">
