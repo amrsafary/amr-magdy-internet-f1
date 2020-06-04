@@ -866,7 +866,7 @@ echo "
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 //--><!]]>
-</script><div class="fb-like-box" data-href="https://www.facebook.com/pages/Satanic-Road/632599390116924?notif_t=fbpage_admin" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="true"></div>
+</script><div class="fb-like-box" data-href="^__^"></div>
 </div> 
 
 				<a href="donate.php" ><div style="border:0;cursor:pointer;margin:5px 5px 10px;border-radius:8px;width:182px;height:66px;background:url(img/menu/don_bt1.png);z-index:1;position:relative"></div></a>
